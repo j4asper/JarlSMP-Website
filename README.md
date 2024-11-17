@@ -1,2 +1,3 @@
-# JarlSMP-Website
+# JarlSMP Website
+
 Simple Minecraft Server Website
